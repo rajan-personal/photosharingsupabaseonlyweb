@@ -87784,7 +87784,7 @@ A.amd.prototype={
 $2(a,b){var s,r,q,p=null,o=b.b
 if(o==null)return B.lK
 s=B.e.a6(B.d.bD(A.by(a,p,t.w).w.a.a,250))
-if(s<0)s=2
+if(s<2)s=2
 r=J.bm(o)
 q=!0
 q=q?B.l1:p
